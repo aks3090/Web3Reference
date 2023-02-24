@@ -1,7 +1,9 @@
 # Web3Reference
 Web3 updated material
 Bitcoin whitepaper, Satoshi Nakamoto: https://lnkd.in/eXPUjpqd 
+
 Ethereum whitepaper, Vitalik Buterin: https://lnkd.in/eit-9DE4 
+
 The Meaning of Decentralization, Vitalik Butterin: https://lnkd.in/eXZGZthT 
 Why Decentralization Matters, Chris Dixon: https://lnkd.in/eXTv9H9q 
 Len Sassaman & Satoshi: a Cypherpunk History: https://lnkd.in/eAJkx8n5  
